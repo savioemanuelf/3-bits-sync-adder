@@ -23,7 +23,7 @@ This repository contains a collection of circuit files that together form a comp
    - *Description:* This file contains the 3-bit adder, built with 2 full adders and 1 half adder.
 
 7. **somador-sinc-3b.circ**
-   - *Description:* his file contains the complete 3-bit synchronous adder circuit, importing all the previous dependencies.
+   - *Description:* This file contains the complete 3-bit synchronous adder circuit, importing all the previous dependencies.
 
 ## Usage
 
