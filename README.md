@@ -1,5 +1,3 @@
-# STUDY PAGES
-
 This repository contains a collection of circuit files that together form a complete synchronous adder. It was created for a university assignment.
 
 ## Project files
